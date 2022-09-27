@@ -3,7 +3,7 @@ CSV Lexer for Pygments
 
 <!-- https://imgur.com/VADHMMY.png -->
 
-![CSV lexer in “pygmentize -L” list](https://imgur.com/Xf3tRh0.png)
+![CSV lexer in "pygmentize -L" list](https://imgur.com/Xf3tRh0.png)
 
 A simple, custom [CSV lexer](http://pygments.org/docs/lexerdevelopment/) for the [Pygments syntax highlighter](http://pygments.org/).
 
